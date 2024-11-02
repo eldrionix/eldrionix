@@ -40,7 +40,7 @@ I also love collaborating on open-source projects and exploring innovative techn
     <img src="./assets/content/Pet_2.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-pet-2">
 </div>
 
-## My works example
+## My Works Example
 
 <div align="center">
     <img src="./assets/content/HungryPeople-MainPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-hungrypeople-mainpage">
