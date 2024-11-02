@@ -40,7 +40,7 @@
     <img src="./assets/content/Pet_2.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-pet-2">
 </div>
 
-## Мои работы
+## Пример моей работы
 
 <div align="center">
     <img src="./assets/content/HungryPeople-MainPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-hungrypeople-mainpage">
