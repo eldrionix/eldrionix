@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://socialify.git.ci/kiyomizudev/kiyomizudev/image?description=1&descriptionEditable=MOBILE%20AND%20DESKTOP%20SOFTWARE%20DEVELOPER&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto" width="640" height="320" alt="kiyomizudev-card"/>
+    <img src="https://socialify.git.ci/eldrionix/eldrionix/image?description=1&descriptionEditable=MOBILE%20AND%20DESKTOP%20SOFTWARE%20DEVELOPER&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto" width="640" height="320" alt="eldrionix-card"/>
     <br>
-    <a href="https://github.com/kiyomizudev">
-        <img src="https://komarev.com/ghpvc/?username=kiyomizudev&label=Profile%20views&color=0e75b6&style=flat" alt="kiyomizudev-views"/> 
+    <a href="https://github.com/eldrionix">
+        <img src="https://komarev.com/ghpvc/?username=eldrionix&label=Profile%20views&color=0e75b6&style=flat" alt="-views"/> 
     </a>
     <br>
-    <a href="https://www.github.com/kiyomizudev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/kiyomizudev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="kiyomizudev-followers">
+    <a href="https://www.github.com/eldrionix" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/eldrionix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="eldrionix-followers">
     </a>
 </div>
 
@@ -36,22 +36,22 @@ I also love collaborating on open-source projects and exploring innovative techn
 ## My Favourite Pet
 
 <div align="center">
-    <img src="./assets/content/Pet_1.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-pet-1">
-    <img src="./assets/content/Pet_2.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-pet-2">
+    <img src="./assets/content/Pet_1.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="eldrionix-pet-1">
+    <img src="./assets/content/Pet_2.jpg" style="width: 300px; height: auto; border-radius: 10px" alt="eldrionix-pet-2">
 </div>
 
 ## My Works Example
 
 <div align="center">
-    <img src="./assets/content/HungryPeople-MainPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-hungrypeople-mainpage">
-    <img src="./assets/content/HungryPeople-ScrollPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="kiyomizudev-hungrypeople-scrollpage">
+    <img src="./assets/content/HungryPeople-MainPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="eldrionix-hungrypeople-mainpage">
+    <img src="./assets/content/HungryPeople-ScrollPage.png" style="width: 300px; height: auto; border-radius: 10px" alt="eldrionix-hungrypeople-scrollpage">
 </div>
 
 ## GitHub Activity
 
 <div align="center">
-    <a href="https://github.com/kiyomizudev">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyomizudev&theme=react" alt="kiyomizudev-activity-graph" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/eldrionix">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldrionix&theme=react" alt="eldrionix-activity-graph" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
 </div>
 
@@ -166,18 +166,18 @@ I also love collaborating on open-source projects and exploring innovative techn
 ## Contact Me
 
 <div align="center">
-    <a href="https://t.me/kiyomizudev">
-        <img src="./assets/Telegram-Square.svg" style="margin-right: 10px" alt="kiyomizudev-telegram"/>
+    <a href="https://t.me/eldrionix">
+        <img src="./assets/Telegram-Square.svg" style="margin-right: 10px" alt="eldrionix-telegram"/>
     </a>
     <a href="https://discordapp.com/users/1013231151177023559">
-        <img src="./assets/Discord-Square.svg" style="margin-right: 10px" alt="kiyomizudev-discord"/>
+        <img src="./assets/Discord-Square.svg" style="margin-right: 10px" alt="eldrionix-discord"/>
     </a>
     <br>
-    <a href="mailto:kiyomizudev@gmail.com" style="font-size: 20px; color: #007bff">kiyomizudev@gmail.com</a>
+    <a href="mailto:eldrionix@gmail.com" style="font-size: 20px; color: #007bff">eldrionix@gmail.com</a>
 </div>
 
 ---
 
 <div align="center">
-    <p style="font-size: 18px; color: #555;">Made with ❤️ by <a href="https://github.com/kiyomizudev" style="color: #007bff;">kiyomizudev</a></p>
+    <p style="font-size: 18px; color: #555;">Made with ❤️ by <a href="https://github.com/eldrionix" style="color: #007bff;">eldrionix</a></p>
 </div>
