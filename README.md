@@ -173,7 +173,7 @@ I also love collaborating on open-source projects and exploring innovative techn
         <img src="./assets/Discord-Square.svg" style="margin-right: 10px" alt="eldrionix-discord"/>
     </a>
     <br>
-    <a href="mailto:eldrionix@gmail.com" style="font-size: 20px; color: #007bff">eldrionix@gmail.com</a>
+    <a href="mailto:eldrionixdev@gmail.com" style="font-size: 20px; color: #007bff">eldrionixdev@gmail.com</a>
 </div>
 
 ---
